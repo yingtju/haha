@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  q
 fff
 f
@@ -7,5 +8,7 @@ ff
 f
 f
 f
+fffff
+q
 
 11  ff ff
